@@ -14,8 +14,8 @@ public class Main {
 
         double weight = 78.2;    //2-ое задание
         double weight2 = 82.7;
-        double weight_all = weight + weight2;
-        System.out.println("Общий вес=" + weight_all);
+        double weightAll = weight + weight2;
+        System.out.println("Общий вес=" + weightAll);
         double weight3 = weight - weight2;
         System.out.println("Разница веса " + weight3);
 
