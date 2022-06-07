@@ -21,9 +21,9 @@ public class Main {
 
         double bananas = 80; // 3-ие задание
         double milk = 105;
-        double ice_cream = 100;
+        double iceCream = 100;
         double eggs = 70;
-        double breakfast = 5 * bananas + 2 * milk + 2 * ice_cream + 4 * eggs;
+        double breakfast = 5 * bananas + 2 * milk + 2 * iceCream + 4 * eggs;
         System.out.println("весс завтрака " + breakfast + "гр.");
         System.out.println("весс завтрака в кг " + breakfast / 1000 + "кг.");
 
